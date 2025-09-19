@@ -9,6 +9,7 @@ package studentdetails;
  * @author abdul
  */
 public class Student {
+    // This is the branch repository
     private int sid; // public or private
     private String name; // principles encapsulation
     private int semester;
