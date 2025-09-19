@@ -14,6 +14,7 @@ public class StudentDetails {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        // Friday, September 19, 2025
        // print sid, name of 3 students
        
        Student s1 = new Student();
