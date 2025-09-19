@@ -12,6 +12,7 @@ public class Student {
     private int sid; // public or private
     private String name; // principles encapsulation
     private int semester;
+    private int age; // new variable
 
     /**
      * @return the sid
