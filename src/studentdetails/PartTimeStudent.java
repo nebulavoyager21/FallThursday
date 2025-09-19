@@ -8,6 +8,7 @@ package studentdetails;
  *
  * @author abdul
  */
+// This is the PartTimeStudent class
 public class PartTimeStudent {
     private int sid;
     private String name;
