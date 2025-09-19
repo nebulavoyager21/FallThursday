@@ -11,7 +11,7 @@ package studentdetails;
 public class Student {
     private int sid; // public or private
     private String name; // principles encapsulation
-    private String semester;
+    private int semester;
 
     /**
      * @return the sid
